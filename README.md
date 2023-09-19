@@ -2,15 +2,5 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## tampilan :
+![screencapture-localhost-51000-2023-09-20-02_27_58](https://github.com/Marwahkamilaahmad/flutter-cantic-shop/assets/114375719/583e1220-1ef8-421a-b16e-c46af4cbe221)
